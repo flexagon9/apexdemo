@@ -1,6 +1,6 @@
 CREATE OR REPLACE PACKAGE nice.cust_sal AS 
 -----------------------------------------------------------------------------------------------------          
---  dummy change
+--  dummy change 2
 --            NAME:   cust_sal
 --            TYPE:   Package Specification
 -- ORIGINAL AUTHOR:   Chandresh Patel

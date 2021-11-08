@@ -18,7 +18,7 @@ wwv_flow_api.create_page(
 ||'the default product to report on in several other pages of the application. Click the <strong>Create Bug</strong> button to create a new bug. The "Recent Bugs" region has a <strong>+</strong> button that can be used to create a new bug as well. All c'
 ||'hart regions have a maximize button in their upper right-hand corner of their region. Most chart regions have a <strong>></strong> button that, when clicked, will display more details about the chart''s data.'
 ,p_last_updated_by=>'ADMIN'
-,p_last_upd_yyyymmddhh24miss=>'20210218122019'
+,p_last_upd_yyyymmddhh24miss=>'20211108131831'
 );
 wwv_flow_api.create_page_plug(
  p_id=>wwv_flow_api.id(37836208666131722)
@@ -878,11 +878,10 @@ wwv_flow_api.create_page_button(
 ,p_button_template_options=>'#DEFAULT#:t-Button--padLeft'
 ,p_button_template_id=>wwv_flow_api.id(1225705764797288347)
 ,p_button_is_hot=>'Y'
-,p_button_image_alt=>'Super Puper New Bug'
+,p_button_image_alt=>'Super Puper New BUG'
 ,p_button_position=>'REGION_TEMPLATE_CREATE'
 ,p_button_redirect_url=>'f?p=&APP_ID.:93:&SESSION.::&DEBUG.:RP,93::'
 ,p_icon_css_classes=>'fa-chevron-right'
-,p_grid_new_grid=>false
 ,p_security_scheme=>wwv_flow_api.id(3797424040496072790)
 );
 wwv_flow_api.create_page_button(

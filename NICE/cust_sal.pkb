@@ -1,6 +1,6 @@
 CREATE OR REPLACE PACKAGE BODY nice.cust_sal AS  
 -----------------------------------------------------------------------------------------------------          
---
+-- update
 --            NAME:   cust_sal
 --            TYPE:   Package Specification
 -- ORIGINAL AUTHOR:   Chandresh Patel 
